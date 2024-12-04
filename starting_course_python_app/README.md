@@ -1,4 +1,4 @@
-## Steps to Create Default Application
+## Steps to Create starting python Application
 
 1. Install flask for python - Use the Command "pip install flask". If you run into a EVENT_TYPE_OPENED ERROR then you need to open watchdog with the command "pip install --upgrade watchdog"
 
