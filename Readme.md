@@ -1,1 +1,1 @@
-## EMU IA367 Course Labs
+## EMU IT367 Course Labs
