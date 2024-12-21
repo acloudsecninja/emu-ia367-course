@@ -1,8 +1,8 @@
 from flask import Flask, render_template, request, redirect, url_for, session
-import random
+## import random
 
 app = Flask(__name__)
-app.config.from_pyfile('config.py')
+## app.config.from_pyfile('config.py')
 
 
 @app.route('/', methods=['GET', 'POST'])
@@ -25,8 +25,8 @@ def home():
             session.pop('target_number', None)
             session.pop('attempts', None)
 
-    return render_template('home.html', message=message)
+    return render_template('default.html', message=message)
 
 
-if __name__ == '__main__':
+## if __name__ == '__main__':
     app.run()
