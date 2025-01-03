@@ -1,4 +1,4 @@
-# EMU-IT-367 - Number Guessing Game with Flask
+# Eastern Michigan University - IT-367 - Number Guessing Game with Flask
 
 A simple Flask-based number guessing game where the user tries to guess a randomly generated number.
 
@@ -15,3 +15,5 @@ python app.py
 3. You should have no errors in the startup process and if you do you must still have troubleshooting to do!
 
 Note: This code has issues in it so that will be part of the problem to find out why its not working.
+
+- acloudsecninja - Professor Weber
